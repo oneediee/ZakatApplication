@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Zakat Apps</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Email atau password yang anda masukkan salah !</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Belum Memiliki Akun? Silahkan Register !</string>
+    <string name="btn_link_to_login">Sudah Memiliki Akun? Silahkan Login !</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+    <string name="zakat">Zakat (Bahasa Arab: زكاة transliterasi: Zakah) dalam segi istilah adalah harta tertentu yang wajib dikeluarkan oleh orang yang beragama  Islam dan diberikan kepada golongan yang berhak menerimanya (fakir miskin dan sebagainya).Zakat dari segi bahasa berarti bersih, suci, subur, berkat dan berkembang.</string>
+    <string name="zakat_fitrah">Zakat Fitrah per orang = 3,5 liter x harga beras di pasaran per liter. Contoh: Harga beras di pasar rata-rata Rp10.000,- per liter, maka zakat fitrah yang harus dibayar per orang sebesar Rp35.000,-. Jika dihitung dari segi berat, maka Zakat Fitrah per orang = 2,5 kg x harga beras di pasaran per kilogram.</string>
+    <string name="zakat_maal">Zakat Maal = 2,5% X jumlah harta yang tersimpan selama 1 tahun. Menghitung Nisab Zakat Maal = 85 x harga emas pasaran per gram. Contoh: Umi punya tabungan Rp100 juta rupiah, deposito Rp200 juta rupiah, rumah kedua yang dikontrakkan senilai Rp500 juta rupiah dan emas perak senilai Rp200 juta rupiah.</string>
+</resources>
